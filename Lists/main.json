@@ -1,0 +1,30 @@
+[
+    {
+        "PluginId": "NotepadSharp.Plugin.ReverseText",
+        "DisplayName": "Notepad# Reverse Text sample plugin",
+        "FolderName": "ReverseText",
+        "Homepage": "https://github.com/NotepadSharp/NotepadSharp.Plugin.ReverseText",
+        "Author": "Pete Davis",
+        "Description": "Adds 'Reverse', 'Uppercase' and 'Lowercase' commands for demonstration purposes",
+        "PluginVersion": "2.0.0",
+        "MinimumSdkVersion": "2.0",
+        "MacCompatible": true,
+        "BSdCompatible": true,
+        "LinuxCompatible": true,
+        "WindowsCompatible": true
+    },
+    {
+        "PluginId": "NotepadSharp.Plugin.SpellCheck",
+        "DisplayName": "Notepad# Spell Check",
+        "FolderName": "SpellCheck",
+        "Homepage": "https://github.com/NotepadSharp/NotepadSharp.Plugin.SpellCheck",
+        "Author": "Pete Davis",
+        "Description": "A basic spell check plugin, largely intended as a demo, but completely functional until something better gets written (or this gets improved).",
+        "PluginVersion": "2.0.0",
+        "MinimumSdkVersion": "2.0",
+        "MacCompatible": true,
+        "BSdCompatible": true,
+        "LinuxCompatible": true,
+        "WindowsCompatible": true
+    }
+]
